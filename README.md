@@ -1,0 +1,2 @@
+請一定要創建train_set資料夾與val_set資料夾
+接者丟入AffectNet Database，訓練精準度不到60%是正常的，你可以玩看看resnet50 101這些有甚麼變化，去我的timm改一下就好了(目前尚不太了解那個東西的功能)
